@@ -1,12 +1,2 @@
-# Python
+# Python gitignore
 __pycache__/
-*.py[cod]
-*.env
-.venv
-venv/
-*.egg-info/
-
-# Output exports
-*.log
-downloads/
-temp/
